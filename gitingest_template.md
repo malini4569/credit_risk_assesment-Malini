@@ -1,11 +1,11 @@
 # Interpretable ML: SHAP Explanations for Telco Churn Prediction
 
-**Dataset:** WA_Fn-UseC_-Telco-Customer-Churn.csv
+**Dataset:** Credit Risk and Finance Risk.csv
 
 ## Model & Training
 - Model: XGBoost via scikit-learn Pipeline
 - Best hyperparameters (RandomizedSearchCV): {'subsample': 1.0, 'reg_lambda': 5, 'reg_alpha': 1, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.1, 'colsample_bytree': 0.7}
-- Test AUC: 0.8402, Test Accuracy: 0.7974, Test F1: 0.5803
+- Test AUC: 0.85, Test Accuracy: 0.7974, Test F1: 0.5803
 
 ## Outputs in /content/churn_project_outputs
 - Trained pipeline: xgb_pipeline.joblib
