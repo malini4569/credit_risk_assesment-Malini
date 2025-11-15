@@ -1,4 +1,4 @@
-# Interpretable Machine Learning for Customer Churn Prediction
+# Interpretable Machine Learning for Credit Risk Prediction
 
 **Dataset:** Credit Risk and Finance Risk.csv
 
