@@ -2,7 +2,7 @@
 ### Using XGBoost + SHAP on the Telco Customer Churn Dataset
 
 This project builds and interprets a customer churn prediction model using  
-the **WA_Fn-UseC_-Telco-Customer-Churn.csv** dataset.  
+the **Credit Risk and Finance Risk.csv** dataset.  
 The model is trained with **XGBoost** inside a complete scikit-learn Pipeline  
 and interpreted using **SHAP (Shapley Additive Explanations)** to produce  
 both global and local explanations.
